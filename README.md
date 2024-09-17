@@ -19,6 +19,8 @@ THIS PAIR CODE IS DON,T USED
 
 <a href="https://rushtech.osc-fr1.scalingo.io/"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20pair%20Whatsapp%20Bot-pink" alt="dragen md" width="300"></a>
 
+pair එක මේ කෙන් ගන්න 
+https://fx-session.vercel.app/
 
 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇
                 ▇▇▇
